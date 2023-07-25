@@ -1,13 +1,13 @@
 EXTRACT_NUM = 10
 LOGIN_OPTION = "facebook"
-DRIVER_PATH = "chromdriver_path" 
+DRIVER_PATH = "./chromedriver.exe" 
 HASH_TAG = "버거스낵"
 LOGIN_URL = "https://www.instagram.com/accounts/login/"
 
 CONTENT_URL = "https://www.instagram.com/explore/tags/"
 
-INSTAGRAM_ID_FORM_NAME = "username"
-INSTAGRAM_PW_FORM_NAME = "password"
+INSTAGRAM_ID_FORM_NAME = "shafaitahir"
+INSTAGRAM_PW_FORM_NAME = "123"
 INSTAGRMA_LOGIN_BTN = ".sqdOP.L3NKy.y3zKF     "
 FACEBOOK_LOGIN_PAGE_BTN_CSS_1 = ".sqdOP.L3NKy.y3zKF     "
 FACEBOOK_LOGIN_PAGE_BTN_CSS_2 = ".sqdOP.yWX7d.y3zKF     "
